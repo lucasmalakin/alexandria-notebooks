@@ -7,3 +7,4 @@ jupyter
 matplotlib
 nltk==3.4
 s3fs==0.2.0
+requests
